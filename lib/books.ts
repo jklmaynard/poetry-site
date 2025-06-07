@@ -5,7 +5,8 @@ export const books = [
         title: "The Fourteen Thieves & Body Cams",
         price: 1000,
         description: "A crown of sonnets & other poems",
-        stripeProductId: "prod_SRthLCwGmwK3Ty"
+        stripeProductId: "prod_SRthLCwGmwK3Ty",
+        coverImage: "/author_photo.jpg"
     },
     {
         id: "2",
@@ -13,6 +14,7 @@ export const books = [
         title: "An Absence of, an Earnest",
         price: 1000,
         description: "A poem in three parts",
-        stripeProductId: "prod_SRthLCwGmwK3Tt"
+        stripeProductId: "prod_SRthLCwGmwK3Tt",
+        coverImage: "/author_photo.jpg"
     }
 ]
