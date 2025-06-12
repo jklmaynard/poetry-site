@@ -6,7 +6,7 @@ export const books = [
         price: 1000,
         description: "A crown of sonnets & other poems",
         stripeProductId: "prod_SRthLCwGmwK3Ty",
-        coverImage: "/author_photo.jpg"
+        coverImage: "/fourteen_thieves_cover.png"
     },
     {
         id: "2",
