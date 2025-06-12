@@ -39,6 +39,7 @@ export default function BookDetail({ book }: { book: Book }) {
             </div>
             <div className="w-full md:max-w-md space-y-4">
                 <h2 className="text-2xl font-semibold text-gray-800">{book.title}</h2>
+                <p className="text-gray-600">{book.publisher} {book.publicationDate}</p>
                 <p className="text-gray-600">{book.description}</p>
                 <p className="text-lg font-medium text-gray-800">Price: ${(book.price / 100).toFixed(2)}</p>
 

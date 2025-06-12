@@ -6,6 +6,7 @@ export interface Book {
     description: string;
     coverImage: string; // Optional property for cover image URL
     author?: string; // Optional property for author name
+    publisher: string;
     publicationDate?: string; // Optional property for publication date
     stripeProductId: string;
 }
