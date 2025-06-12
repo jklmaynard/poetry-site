@@ -4,7 +4,7 @@ export const books = [
         slug: "the-fourteen-thieves",
         title: "The Fourteen Thieves & Body Cams",
         price: 1000,
-        description: "A crown of sonnets & other poems. First edition limited to 50 signed and numbered copies.",
+        description: "A crown of sonnets & other poems. Edition limited to 50 signed and numbered copies.",
         stripeProductId: "prod_SRthLCwGmwK3Ty",
         coverImage: "/fourteen_thieves_cover.png",
         publisher: "Monday Editions",
