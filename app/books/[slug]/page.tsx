@@ -1,4 +1,3 @@
-
 import { books } from '../../../lib/books';
 import BookDetail from '@/components/BookDetail';
 

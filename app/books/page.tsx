@@ -1,6 +1,6 @@
 import { books } from '../../lib/books';
 
-export default async function BooksPage() {
+export default function BooksPage() {
     return (
         <div>
             <h1>Books</h1>
